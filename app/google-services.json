@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966843855067",
+    "project_id": "pdm-usuario-f8c76",
+    "storage_bucket": "pdm-usuario-f8c76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966843855067:android:c886690f576f5eff581cfe",
+        "android_client_info": {
+          "package_name": "com.example.navegacao1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbBwEfU5JjXAeksNTWZO3GyKzMIGiH7Do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
